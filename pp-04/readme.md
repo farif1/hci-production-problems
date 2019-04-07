@@ -34,8 +34,16 @@ what's not as important such as the directions to how to purchase is important.
 Also layout in different screen sizes would change according to what works for
 that screen size.
 
-* HCI Guideline Two (URL):
+* HCI Guideline Two (URL): https://developer.apple.com/design/human-interface-guidelines/ios/user-interaction/data-entry/
 * Describe how you implemented that guideline in your sketch:
+Data Entry by users need to just right. I would make sure the users are only
+filling out the fields they really need to and options will be present plus it should
+be easier for users to know what fields to fill and how to submit their data. The
+current design confuses users about what to fill and how to submit, there is a
+bunch of extra information provided that's not needed like why is the adding a promo
+code and submit button at the top of the page. That confuses users if they should
+submit that button or press the continue button. This is clear in my design, there
+aren't any extra buttons and the 'Add to Cart' button is clear.
 
 * HCI Guideline Three (URL):
 * Describe how you implemented that guideline in your sketch:
