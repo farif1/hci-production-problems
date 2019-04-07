@@ -25,8 +25,14 @@ Small commits to your Production Problems repository that include:
 2. an explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guideline One (URL):
+* HCI Guideline One (URL): https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/adaptivity-and-layout/
 * Describe how you implemented that guideline in your sketch:
+In my design the appearance will be consistent and not that the background is being
+pulled away for some parts. The text would be readable and different sizes of text
+will be seen to catch users attention to portray whats important to read and
+what's not as important such as the directions to how to purchase is important.
+Also layout in different screen sizes would change according to what works for
+that screen size.
 
 * HCI Guideline Two (URL):
 * Describe how you implemented that guideline in your sketch:
