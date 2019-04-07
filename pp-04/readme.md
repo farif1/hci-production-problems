@@ -50,7 +50,7 @@ aren't any extra buttons and the 'Add to Cart' button is clear.
 
 * HCI Guideline Three (URL): https://developer.apple.com/design/human-interface-guidelines/ios/app-architecture/navigation/
 * Describe how you implemented that guideline in your sketch:
-The navigation of the original design is very confusing. I am using a flat navigation
+The navigation of the original design is very confusing. I am using a hierarchical navigation
 which allows users to not get confuse. I have a menu button with specific tabs
 for each category. The tabs are clear and users can see them easily. Plus every category
 is on a different page and the checkout page would be different as well so everything clear
