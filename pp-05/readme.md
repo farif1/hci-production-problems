@@ -16,13 +16,13 @@ your group for Project 3 to help yourselves create your own master usability che
 
 * Your own condensed ten-item, must-have usability checklist:
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. Adequate Text-to-background contrast
+2. Consistency across the whole website
+3. Content is readable
+4. Color, alone is not used to convey information
+5. Site is responsive
+6. Accessible Navigation
+7. Emphasis is used sparingly
+8. Important commands are listed as buttons and not links
+9. Links, buttons and checkboxes are easily clickable
+10. In Forms, Long dropdown menus are avoided
